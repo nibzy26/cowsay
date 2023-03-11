@@ -1,4 +1,10 @@
-cowsay (3.03+dfsg2-7) unstable; urgency=medium
+cowsay (3.03+dfsg2-7ubuntu1) focal; urgency=medium
+
+  * myversion
+
+ -- nsyed <nibzy26@gmail.com>  Fri, 10 Mar 2023 18:37:31 +0500
+
+cowsay (3.03+dfsg2-7) focal; urgency=medium
 
   * New maintainer (closes: #910035)
   * Fix lintian warning about spelling of 'balloons' in patch
